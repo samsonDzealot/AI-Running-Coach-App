@@ -38,7 +38,7 @@ Sarai is developed as a full-stack web application, leveraging modern web techno
 * **Backend:**
     * **Node.js (TypeScript):** The runtime environment for the server-side application.
     * **Drizzle ORM:** A type-safe ORM for interacting with databases, ensuring data integrity and developer efficiency.
-    * **AI Integration:** Core AI features are powered by sophisticated models and algorithms, processing user data and generating coaching insights. *(We are keeping this general as the core AI logic is in TS)*
+    * **AI Integration:** Core AI features are powered by SOTA models from providers like OpenAI. In  production, it is presumed that the AI will be activated via Serverless API calls. For local implementation, open-source models can work fine. *(It's worthy of note that the core AI logic is in TS - this was a matter of convenience since a lot of other aspects of the project were already written in TypeScript)*
 * **Tooling:**
     * **npm / Yarn:** Package managers for managing project dependencies.
 
