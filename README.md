@@ -16,10 +16,11 @@ The `Sarai` application is envisioned with a rich set of features to support a r
 
 ### Envisioned Advanced Features
 
-* **Professional Running Coach AI Chatbot:**
-    * **Personalized Training Calendar Generation:** The AI chatbot will ask detailed questions (current schedule, training history, training goals, upcoming events, etc.) to create a well-structured and exhaustive training calendar covering runs, workouts, and nutritional advice.
+* **Professional Running Coach AI Agent:**
+    * **Personalized Training Calendar Generation:** An agentic chatbot that will (at the onset) ask detailed questions (current schedule, training history, training goals, upcoming events, etc.) to create a well-structured, hyper-personalized and exhaustive training calendar covering runs, workouts, and nutritional advice for the user. 
     * **Post-Session Feedback & Adaptive Advice:** Users will provide feedback after each session (run, workout, meal). The AI will analyze this feedback to offer appropriate advice (including recovery) and dynamically adjust the training strategy as needed.
     * **Injury Prevention & Calendar Adjustment:** In cases of reported injury, the AI coach can intelligently modify the training calendar, balancing recovery with initial training goals and calendar design.
+To enable the features stated above, the agent will be integrated with/have access to retrieve or rewrite relevant databases (calendars, diet plans etc) on behalf of the user, and this should include all relevant databases, whether external or app-native.
 * **Real GPS Integration for Run Tracking:** Seamlessly tracks runs with real-time GPS data for distance, pace, and route mapping.
 * **Real-time Notifications System:** Provides timely alerts for upcoming sessions (workout time, eating time, run time) as per the personalized calendar.
 * **Interactive Workout Animations:** Dynamic, motion-captured animations for numerous middle-distance running specific workouts, guiding users through exercises with correct form.
