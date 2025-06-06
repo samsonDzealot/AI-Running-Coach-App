@@ -113,7 +113,7 @@ The frontend application will typically open in your browser at http://localhost
 💡 Future Enhancements
 The vision for Sarai extends far beyond the current prototype. Key areas for future development include:
 
-Full AI Coaching Implementation: Transition from basic chat to the fully envisioned professional running coach AI, capable of generating adaptive training plans, providing nuanced feedback, and dynamically adjusting schedules for injury prevention.
+Full AI Coaching Implementation: Transition from basic chatbot to the fully envisioned professional running coach AI Agent, capable of generating adaptive training plans, providing nuanced feedback, and dynamically adjusting schedules for injury prevention in autonomous fashion.
 Seamless Data Integration: Integrate with popular wearable devices and running apps (e.g., Strava, Garmin Connect, Apple Health) for automatic run tracking and data import.
 Real-time Interaction: Develop real-time voice coaching features for in-ear guidance during runs and interactive workout animations.
 Comprehensive Analytics Dashboard: Implement advanced data visualization and analytics tools to provide users with deep insights into their progress, performance trends, and areas for improvement.
