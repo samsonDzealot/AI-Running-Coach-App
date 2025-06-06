@@ -33,12 +33,12 @@ Sarai is developed as a full-stack web application, leveraging modern web techno
 * **Frontend:**
     * **JavaScript/TypeScript:** The core programming language for the client-side application.
     * **Vite:** A fast build tool for modern web projects.
-    * **React / Vue / Svelte (Likely):** A component-based JavaScript framework (common with Vite setups). *(You can specify which one if you know, otherwise keep it general or remove this line)*
+    * **React / Vue / Svelte (Likely):** A component-based JavaScript framework (common with Vite setups). 
     * **Tailwind CSS & PostCSS:** For highly customizable, utility-first CSS styling and efficient stylesheet processing.
 * **Backend:**
     * **Node.js (TypeScript):** The runtime environment for the server-side application.
     * **Drizzle ORM:** A type-safe ORM for interacting with databases, ensuring data integrity and developer efficiency.
-    * **AI Integration:** Core AI features are powered by SOTA models from providers like OpenAI. In  production, it is presumed that the AI will be activated via Serverless API calls. For local implementation, open-source models can work fine. *(It's worthy of note that the core AI logic is in TS - this was a matter of convenience since a lot of other aspects of the project were already written in TypeScript)*
+    * **AI Integration:** Core AI features are powered by SOTA models from providers like OpenAI. In  production, it is presumed that the AI will be activated via Serverless API calls. For local implementation, open-source models can work fine. *(It's worthy of note that the core AI logic is in TS - this was a matter of convenience since a lot of other aspects of the project were already written in TypeScript/Javascript)*
 * **Tooling:**
     * **npm / Yarn:** Package managers for managing project dependencies.
 
