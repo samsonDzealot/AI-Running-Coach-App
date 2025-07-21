@@ -40,3 +40,4 @@ export type AiChat = typeof aiChats.$inferSelect;
 export type InsertUser = z.infer<typeof insertUserSchema>;
 export type InsertWorkout = z.infer<typeof insertWorkoutSchema>;
 export type InsertChat = z.infer<typeof insertChatSchema>;
+
